@@ -19,7 +19,7 @@ class Obstacle
 
   void update()
   {
-    c -= 0.45;
+    c -= 1.2;
   }
 
   boolean isDead()
